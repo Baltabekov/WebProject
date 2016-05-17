@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript">
+function submitfunction(){
+
+	var x=document.forms["myform"]["username"].value;
+	var y=document.forms["myform"]["pwd"].value;
+	if(x==null||x==""||y==null||y=""){
+		alert("input is empty;");
+	}
+else{
+	alert("hj");
+}
+}
+alert("kl");
+</script>
+
+</head>
+<body>
+<form method="post" onsubmit="submitfunction();" name="myform">
+name <input type="text" name="username"></br>
+password<input type="password" name="pwd"></br>
+
+<input type="submit" value="suvmit">
+</form>
+</body>
+
+</html>

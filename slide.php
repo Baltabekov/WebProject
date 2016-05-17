@@ -1,0 +1,58 @@
+<html>
+<head>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel" style="margin-top:40px;height:100px;width:100%">
+  <!-- Indicators -->
+  
+
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    <div class="item active">
+      <img src="haberresim_astana-2-2-galatasaray-4199.jpg" alt="..." style="width:20%;height:100px;margin-left:auto;margin-right:auto;display:inline-block;">
+     
+      <img src="haberresim_astana-2-2-galatasaray-4199.jpg" alt="..." style="width:20%;height:100px;margin-left:auto;margin-right:auto;display:inline-block;">
+      <img src="haberresim_astana-2-2-galatasaray-4199.jpg" alt="..." style="width:20%;height:100px;margin-left:auto;margin-right:auto;display:inline-block;">
+
+      <div class="carousel-caption">
+      	      <div class="img" style="margin-top:-300px;margin-left:-200px"><a href="astana.php"style="color:white;">Астана Чемпиондар Лигасында </br> түріктердің  Галатасарай </br> клубымен теңбе-тең ойнады.</a></div>
+        </div>
+        </div>
+    <div class="item">
+      <img src="OPA_4080.jpg" alt="..."style="width:100%;height:570px;margin-left:auto;margin-right:auto;">
+      <div class="carousel-caption">
+        <div class="img" style="margin-top:-400px;margin-left:570px;"><a href="kairat.php"style="color:white;">Алматылық Қайрат француздардың </br> Бордо командасынан 2:1 есебімен</br>сырт алаңда жеңілді.</a></div>
+      </div>
+    </div>
+    <div class="item">
+      <img src="d03ba82059a71abd0c82dce8ed326879.JPG" alt="..."style="width:100%;margin-left:auto;margin-right:auto;height:570px;">
+      <div class="carousel-caption">
+       <div class="img" style="margin-top:-150px;margin-left:570px;"><a href="euro.php" style="color:white;">Қазақстан Ұлттық құрамасы </br>EURO-2016 </br> іріктеу кезеңінен Нидерландыға </br> есе жіберіп алды.</a></div>
+       </div>
+    </div>
+    
+
+  </div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+</body>
+</html>

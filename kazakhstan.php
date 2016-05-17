@@ -1,0 +1,221 @@
+<html>
+<head>
+<title>Ұлттық құрама ойыншылары</title>
+<style type="text/css">
+.main{
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		right: 0px;
+		width: 100%;
+		height: 40px;
+		background-color: black;
+		position: fixed;
+}
+.usti{
+	float: left;
+	}
+body{
+		background-image:url("wallhaven-43540.jpg");
+		background-position: center;
+		background-attachment: fixed;
+		background-size: 100%;
+	}
+	.kazakhstan{
+    margin-right: auto;
+    margin-left: auto;
+    width:70%;
+    height:3100px;
+    background-color: white;
+    
+}
+
+.proz{
+	position: absolute;
+	top:40px;
+	height:40px;
+	width: 100%;
+	background-color: grey;
+	opacity: 0.8;
+	
+}
+div.usti a:hover{
+	color:blue;
+
+  }
+
+  .dropbtn {
+      color: white;
+      padding: 3px;
+      font-size: 16px;
+      cursor: pointer;
+      margin-top: 3px;
+
+
+  }
+
+  .dropdown {
+      position: relative;
+      display: inline-block;    
+      margin-top: -5px;
+  }
+
+  .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #f9f9f9;
+      min-width: 120px;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      color: black;
+
+  }
+
+  .dropdown-content a {
+      color: #000000;
+      padding: 7px 9px;
+      text-decoration: none;
+      display: block;
+
+  }
+
+  .dropdown-content a:hover {background-color:#B96D5D;
+  }
+
+  .dropdown:hover .dropdown-content {
+      display: block;
+  }
+.footer{
+	color:white;
+	float:left;
+
+}
+
+.foot{
+	position: absolute;
+	height:80px;
+	background-color: black;
+	width: 100%;
+	left: 0px;
+	right: 0px;
+}
+</style>
+</head>
+<body>
+<div class="main">
+
+<div class="ch" style="margin-top:-110px;"><img src="200px-UEFA_Champions_League_logo.svg.png" style="margin-left:200px;width:80px;height:80px;margin-top:30px;"></div>
+<div class="usti"><img src="Football_Federation_of_Kazakhstan_Logo.svg.png"style="margin-left:10px;width:60px;height:40px;"></div>
+<div class="usti" style="margin-left:0px;padding: 8px 20px;	font-style:italic;font-family:sans-serif;font-weight:800;font-size:23px;margin-top:-2px"><a href="index.php"style="color:yellow;text-decoration:none;">Қазақстан футбол федерациясы</a></div>
+
+<div class="usti" style="font-weight:300;font-family:sans-serif;font-stretch: expanded;margin-left:752px;padding:10px;color:#A9A9A9;"><a href="loginproject.php" style="color:#A9A9A9;text-decoration:none;">Кіру<img src="35514718.png"style="height:15px;width:20px;"></a></div>
+</div>
+
+<div class="proz" style="background-color:grey;margin-left:-8px;">
+<div class="dropdown">
+  <div class="dropbtn" style="margin-left:35px;background-color:#2157F0;" ><a href="index.php"style="color:white;">Бастысы</a></div>
+</div>
+<div class="dropdown" style="font-size:30px;margin-left:35px;">|</div>
+<div class="dropdown" style="margin-left:35px">
+  <div class="dropbtn">Федерация</div>
+  <div class="dropdown-content">
+    <a href="komitet.php">Атқарушы комитет</a>
+  </div>
+</div>
+<div class="dropdown" style="font-size:30px;margin-left:35px;">|</div>
+<div class="dropdown" style="margin-left:35px">
+  <div class="dropbtn">Ұлттық құрама</div>
+  <div class="dropdown-content">
+    <a href="kazakhstan.php">Қазақстан</a>
+  </div>
+</div>
+<div class="dropdown" style="font-size:30px;margin-left:35px;">|</div>
+<div class="dropdown" style="margin-left:35px">
+  <div class="dropbtn">Төрешілік</div>
+  <div class="dropdown-content">
+    <a href="referi.php">Ойын шарттары</a>
+
+  </div>
+ </div>
+<div class="dropdown" style="font-size:30px;margin-left:35px;">|</div>
+<div class="dropdown" style="margin-left:35px">
+  <div class="dropbtn">Бұқаралық футбол</div>
+  <div class="dropdown-content">
+    <a href="ardager.php">Ардагерлер</a>
+  </div>
+</div>
+<div class="dropdown" style="font-size:30px;margin-left:5px;">|</div>
+<div class="dropdown" style="margin-left:35px">
+  <div class="dropbtn"><a href="bala.php" style="color:white;text-decoration:none;">Балалар футболы</a></div>
+</div>
+<div class="dropdown" style="font-size:30px;margin-left:8px;">|</div>
+<div class="dropdown" style="margin-left:35px">
+  <div class="dropbtn"><a href="tehnika.php" style="color:white;text-decoration:none;">Техникалық орталық</a></div>
+</div>
+<div class="dropdown" style="font-size:30px;margin-left:35px;">|</div>
+</div>
+
+<div class="kazakhstan" style="margin-top:80px;">
+<a href="search.php" style="margin-left:250px;font-size:20px">Ойыншылар туралы мәлімет алу үшін термені басыңыз</a>
+<h1 style="padding:35px 350px;;font-family:sans-serif;color:#7274E2;">Қазақстан</h1>
+<img src="495505_1431595406_660_0_0.JPG" style="margin-left:135px;margin-top:-60px;">
+<hr style="margin-top:10px;">
+
+<div style="height:26px;background: #ffca19;width:125px;margin-left:35px;border-radius:8px;" ><h3 style="font: bold Arial;">Қақпашылар</h3></div>
+<hr style="border:1px solid #ffca19;background-color: #ffca19;margin-left:35px;height:4px;margin-top:-6px;width:850px;">
+<div style="font-weight:800;font-size:18px;color:white;background-color:#2B47D3;border-radius:10px;height:220px; width:236px;margin-left:50px;margin-top:50px;"><center><img src="723780_1427215285_166_166_0.jpg"style="padding:5px;border-radius:10px;"></center><center>Андрей Сидельников</center></div>
+<div style="font-weight:800;font-size:18px;margin-left:350px;color:white;background-color:#2B47D3;border-radius:10px;height:220px; width:236px;margin-top:-220px;"><center><img src="558688_1434522779_166_166_0.jpg" style="padding:5px;border-radius:10px;"></center><center>Сергей Бойченко</center></div>
+<div style="margin-left:650px;color:white;font-weight:800;font-size:18px;background-color:#2B47D3;border-radius:10px;height:220px; width:236px;margin-top:-220px;"><center><img src="773777_1427214917_166_166_0.jpg" style="padding:5px;border-radius:10px;"></center><center>Стас Покатилов</center></div>
+<br>
+<br>
+<br>
+<div style="height:26px;background: #ffca19;width:125px;margin-left:35px;border-radius:8px;" ><h3 style="font: bold Arial;">Қорғаушылар</h3></div>
+<hr style="border:1px solid #ffca19;background-color: #ffca19;margin-left:35px;height:4px;margin-top:-6px;width:850px;">
+<div style="color:white;background-color:#2B47D3;border-radius:10px;font-weight:800;font-size:18px;height:220px; width:236px;margin-left:50px;margin-top:50px;"><center><img src="118589_1427215298_166_166_0.jpg"style="padding:5px;border-radius:10px;"></center><center>Юрий Логвиненко</center></div>
+<div style="margin-left:350px;color:white;background-color:#2B47D3;border-radius:10px;height:220px;font-weight:800;font-size:18px; width:236px;margin-top:-220px;"><center><img src="152964_1427215272_166_166_0.jpg" style="padding:5px;border-radius:10px;"></center><center>Дмитрий Шомко</center></div>
+<div style="font-weight:800;font-size:18px;margin-left:650px;color:white;background-color:#2B47D3;border-radius:10px;height:220px; width:236px;margin-top:-220px;"><center><img src="60918_1427215254_166_166_0.jpg" style="padding:5px;border-radius:10px;"></center><center>Абзал Бейсебеков</center></div>
+
+<div style="color:white;background-color:#2B47D3;font-weight:800;font-size:18px;border-radius:10px;height:220px; width:236px;margin-left:50px;margin-top:50px;"><center><img src="450196_1427215201_166_166_0.jpg"style="padding:5px;border-radius:10px;"></center><center>Марк Гурман</center></div>
+<div style="margin-left:350px;color:white;background-color:#2B47D3;border-radius:10px;font-weight:800;font-size:18px;height:220px; width:236px;margin-top:-220px;"><center><img src="248723_1427215175_166_166_0.jpg" style="padding:5px;border-radius:10px;"></center><center>Ермек Қуантаев</center></div>
+<div style="font-weight:800;font-size:18px;margin-left:650px;color:white;background-color:#2B47D3;border-radius:10px;height:220px; width:236px;margin-top:-220px;"><center><img src="203414_1427215159_166_166_0.jpg" style="padding:5px;border-radius:10px;"></center><center>Гафуржан Сүйімбаев</center></div>
+
+<div style="color:white;background-color:#2B47D3;font-weight:800;font-size:18px;border-radius:10px;height:220px; width:236px;margin-left:50px;margin-top:50px;"><center><img src="699164_1427215142_166_166_0.jpg"style="padding:5px;border-radius:10px;"></center><center>Сергей Малый</center></div>
+<div style="margin-left:350px;color:white;background-color:#2B47D3;border-radius:10px;font-weight:800;font-size:18px;height:220px; width:236px;margin-top:-220px;"><center><img src="733566_1427214899_166_166_0.jpg" style="padding:5px;border-radius:10px;"></center><center>Елдос Ахметов</center></div>
+<div style="font-weight:800;font-size:18px;margin-left:650px;color:white;background-color:#2B47D3;border-radius:10px;height:220px; width:236px;margin-top:-220px;"><center><img src="830548_1427214881_166_166_0.jpg" style="padding:5px;border-radius:10px;"></center><center>Константин Энгель</center></div>
+<br>
+<br>
+<br>
+<div style="height:26px;background: #ffca19;width:225px;margin-left:35px;border-radius:8px;" ><h3 style="font: bold Arial;">Жартылай қорғаушылар</h3></div>
+<hr style="border:1px solid #ffca19;background-color: #ffca19;margin-left:35px;height:4px;margin-top:-6px;width:850px;">
+
+<div style="color:white;background-color:#2B47D3;font-weight:800;font-size:18px;border-radius:10px;height:220px; width:236px;margin-left:50px;margin-top:50px;"><center><img src="299220_1445320192_166_166_0.jpg"style="padding:5px;border-radius:10px;"></center><center>Исламбек Қуат</center></div>
+<div style="margin-left:350px;color:white;background-color:#2B47D3;border-radius:10px;height:220px; width:236px;margin-top:-220px;font-weight:800;font-size:18px"><center><img src="895483_1427215119_166_166_0 (1).jpg" style="padding:5px;border-radius:10px;"></center><center>Самат Смақов</center></div>
+<div style="margin-left:650px;color:white;background-color:#2B47D3;border-radius:10px;font-weight:800;font-size:18px;height:220px; width:236px;margin-top:-220px;"><center><img src="136840_1427215097_166_166_0.jpg" style="padding:5px;border-radius:10px;"></center><center>Ұлан Қонысбаев</center></div>
+
+<div style="font-weight:800;font-size:18px;color:white;background-color:#2B47D3;border-radius:10px;height:220px; width:236px;margin-left:50px;margin-top:50px;"><center><img src="466737_1427215075_166_166_0.jpg"style="padding:5px;border-radius:10px;"></center><center>Азат Нұрғалиев</center></div>
+<div style="margin-left:350px;color:white;font-weight:800;font-size:18px;background-color:#2B47D3;border-radius:10px;height:220px; width:236px;margin-top:-220px;"><center><img src="934226_1427215023_166_166_0.jpg" style="padding:5px;border-radius:10px;"></center><center>Бауыржан Исламхан</center></div>
+<div style="margin-left:650px;color:white;background-color:#2B47D3;font-weight:800;font-size:18px;border-radius:10px;height:220px; width:236px;margin-top:-220px;"><center><img src="539073_1427214863_166_166_0.jpg" style="padding:5px;border-radius:10px;"></center><center>Бауыржан Жолшиев</center></div>
+<div style="font-weight:800;font-size:18px;color:white;background-color:#2B47D3;border-radius:10px;height:220px; width:236px;margin-left:50px;margin-top:50px;"><center><img src="292145_1434522827_166_166_0.JPG"style="padding:5px;border-radius:10px;"></center><center>Тимур Досмағамбетов</center></div>
+<br>
+<br>
+<br>
+
+<div style="height:26px;background: #ffca19;width:135px;margin-left:35px;border-radius:8px;" ><h3 style="font: bold Arial;">Шабуылшылар</h3></div>
+<hr style="border:1px solid #ffca19;background-color: #ffca19;margin-left:35px;height:4px;margin-top:-6px;width:850px;">
+
+<div style="color:white;background-color:#2B47D3;font-weight:800;font-size:18px;border-radius:10px;height:220px; width:236px;margin-left:50px;margin-top:50px;"><center><img src="613216_1425532292. Танат Нусербаев (Tanat Nuserbayev) (2)_166_166_0.jpg"style="padding:5px;border-radius:10px;"></center><center>Таңат Нөсербаев</center></div>
+<div style="margin-left:350px;color:white;background-color:#2B47D3;border-radius:10px;height:220px; width:236px;margin-top:-220px;font-weight:800;font-size:18px"><center><img src="15072_1427214991_166_166_0.jpg" style="padding:5px;border-radius:10px;"></center><center>Алексей Щеткин</center></div>
+<div style="margin-left:650px;color:white;background-color:#2B47D3;border-radius:10px;font-weight:800;font-size:18px;height:220px; width:236px;margin-top:-220px;"><center><img src="419294_1427214803_166_166_0.jpg" style="padding:5px;border-radius:10px;"></center><center>Сергей Хижниченко</center></div>
+
+</div>
+
+<div class="foot">
+<h4 style="margin-top:0px;font-family:Times New Roman;font-weight:300px;font-size:18px;color:white;">Ақпараттық серіктестер</h4>
+<hr style="margin-top:-22px;width:1345px;margin-left:0px;border:1px solid yellow">
+<div class="footer" style="margin-left:170px;margin-top:-6px;"><a href="http://vesti.kz/"><img src="vst.png"style="border-radius:8px;"></a></div>
+<div class="footer" style="margin-left:120px;margin-top:-6px;"><a href="http://alaman.kz/"><img src="alamankz (1).png"style="border-radius:8px;height:50px;"></a></div>
+<div class="footer" style="margin-left:120px;margin-top:-6px;"><a href="http://www.info-tses.kz/"><img src="gazeta.png"style="border-radius:8px;height:50px;"></a></div>
+<div class="footer" style="margin-left:120px;margin-top:-6px;"><a href="http://egemen.kz/"><img src="egemen.png"style="border-radius:8px;height:50px;"></a></div>
+</div>
+
+</body>
+</html>
